@@ -5,9 +5,8 @@
 ### Author: Ammar Al-Hariry
 
 ## Links and Resources
-- [submission PR]()
-- [swagger hub]()
-- [github Action]()
+- [submission PR](https://github.com/401-advanced-javascript-ammar-hariry/authenticated-api-server/pull/1)
+- [github Action](https://github.com/401-advanced-javascript-ammar-hariry/authenticated-api-server/runs/768979968)
 
 ### module 
 ``server.js``
